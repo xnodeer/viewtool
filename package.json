@@ -1,0 +1,19 @@
+{
+  "name": "viewtool",
+  "version": "1.0.0",
+  "description": "tool for you to control the appearance of the main menu of the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i tea-testnet-projec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnodeer/viewtool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xnodeer/viewtool/issues"
+  },
+  "homepage": "https://github.com/xnodeer/viewtool#readme"
+}
