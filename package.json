@@ -1,6 +1,6 @@
 {
   "name": "viewtool",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "tool for you to control the appearance of the main menu of the terminal",
   "main": "index.js",
   "scripts": {
