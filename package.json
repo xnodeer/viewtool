@@ -18,5 +18,9 @@
   "homepage": "https://github.com/xnodeer/viewtool#readme",
   "devDependencies": {
     "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "react": "^18.2.0"
   }
 }
