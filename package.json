@@ -16,7 +16,7 @@
     "url": "https://github.com/xnodeer/viewtool/issues"
   },
   "homepage": "https://github.com/xnodeer/viewtool#readme",
-  "dependencies": {
+  "devDependencies": {
     "react-dom": "^18.2.0"
   }
 }
